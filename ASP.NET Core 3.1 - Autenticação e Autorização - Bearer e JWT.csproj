@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ASP.NET_Core_3._1___Autenticação_e_Autorização___Bearer_e_JWT</RootNamespace>
+  </PropertyGroup>
+
+
+</Project>
