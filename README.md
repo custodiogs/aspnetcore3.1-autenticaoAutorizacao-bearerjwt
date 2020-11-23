@@ -23,6 +23,11 @@ Content-Length: 45
 
 {"username":"Joao Maria","password":"123456"}
 
+Resulado da autenticação
+
+![alt text](https://github.com/custodiogs/aspnetcore3.1-autenticaoautorizacao-bearerjwt/blob/main/Resultado.JPG)
+
+
 ### Como consumir action restrita
 GET /v1/banco/authenticated HTTP/1.1
 Host: localhost:5001
