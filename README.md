@@ -23,7 +23,7 @@ Content-Length: 45
 
 {"username":"Joao Maria","password":"123456"}
 
-Resulado da autenticação
+Resultado da autenticação
 
 ![alt text](https://github.com/custodiogs/aspnetcore3.1-autenticaoautorizacao-bearerjwt/blob/main/Resultado.JPG)
 
