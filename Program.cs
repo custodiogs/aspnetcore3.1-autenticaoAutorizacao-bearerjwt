@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace ASP.NET_Core_3._1___Autenticação_e_Autorização___Bearer_e_JWT
+namespace Banco
 {
     public class Program
     {

@@ -2,8 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>ASP.NET_Core_3._1___Autenticação_e_Autorização___Bearer_e_JWT</RootNamespace>
+    <RootNamespace>Banco</RootNamespace>
   </PropertyGroup>
 
-
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.2.0" />
+  </ItemGroup>
 </Project>

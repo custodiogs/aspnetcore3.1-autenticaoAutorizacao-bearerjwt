@@ -1,0 +1,29 @@
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.exe
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.deps.json
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.runtimeconfig.json
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.runtimeconfig.dev.json
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.pdb
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.csprojAssemblyReference.cache
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.AssemblyInfoInputs.cache
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.AssemblyInfo.cs
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.csproj.CoreCompileInputs.cache
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.StaticWebAssets.Manifest.cache
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.StaticWebAssets.xml
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.styles.css
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.RazorTargetAssemblyInfo.cache
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.csproj.CopyComplete
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.dll
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.pdb
+C:\Users\gcsld\Dev\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT\obj\Debug\netcoreapp3.1\ASP.NET Core 3.1 - Autenticação e Autorização - Bearer e JWT.genruntimeconfig.cache
